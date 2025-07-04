@@ -1,0 +1,3026 @@
+{
+  "search_info": {
+    "search_date": "2025-06-15 19:48:53",
+    "total_places": 126
+  },
+  "places": [
+    {
+      "id": "ChIJ_yVt2OscaDQRj1BAJ1qo7qY",
+      "name": "頂埔",
+      "place_id": "ChIJ_yVt2OscaDQRj1BAJ1qo7qY",
+      "latitude": 24.9594071,
+      "longitude": 121.4197519,
+      "address": "23671台灣新北市土城區中央路四段51號 之 6 號B3",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B3",
+        "street_number": "51號 之 6 號",
+        "route": "中央路四段",
+        "administrative_area_level_3": "頂埔里",
+        "political": "台灣",
+        "administrative_area_level_2": "土城區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "23671"
+      }
+    },
+    {
+      "id": "ChIJY1sYMdccaDQRhP5havdXk2Q",
+      "name": "永寧",
+      "place_id": "ChIJY1sYMdccaDQRhP5havdXk2Q",
+      "latitude": 24.96673,
+      "longitude": 121.43607000000002,
+      "address": "236台灣新北市土城區中央路3段105號B1",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "105",
+        "route": "中央路3段",
+        "administrative_area_level_2": "土城區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "236"
+      }
+    },
+    {
+      "id": "ChIJkd4GPSsdaDQRARYyrx7fj0M",
+      "name": "土城",
+      "place_id": "ChIJkd4GPSsdaDQRARYyrx7fj0M",
+      "latitude": 24.9731415,
+      "longitude": 121.44425030000001,
+      "address": "236台灣新北市土城區金城路1段105號B1",
+      "rating": 4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B1",
+        "street_number": "105號",
+        "route": "金城路1段",
+        "administrative_area_level_3": "安和里",
+        "political": "台灣",
+        "administrative_area_level_2": "土城區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "236"
+      }
+    },
+    {
+      "id": "ChIJUYb5-ocBaDQRFe6nORFZIqY",
+      "name": "新店",
+      "place_id": "ChIJUYb5-ocBaDQRFe6nORFZIqY",
+      "latitude": 24.957839999999997,
+      "longitude": 121.53757999999999,
+      "address": "231台灣新北市新店區北宜路一段",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "route": "北宜路一段",
+        "administrative_area_level_2": "新店區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "231"
+      }
+    },
+    {
+      "id": "ChIJNRPzR4sBaDQR7FElnCEbUGY",
+      "name": "新店區公所",
+      "place_id": "ChIJNRPzR4sBaDQR7FElnCEbUGY",
+      "latitude": 24.967858099999997,
+      "longitude": 121.5415249,
+      "address": "231台灣新北市新店區北新路一段",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "route": "北新路一段",
+        "administrative_area_level_2": "新店區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "231"
+      }
+    },
+    {
+      "id": "ChIJ45PluBgCaDQRfTmiFW6no4Y",
+      "name": "小碧潭",
+      "place_id": "ChIJ45PluBgCaDQRfTmiFW6no4Y",
+      "latitude": 24.9717316,
+      "longitude": 121.53070620000001,
+      "address": "231台灣新北市新店區",
+      "rating": 4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "新店區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "231"
+      }
+    },
+    {
+      "id": "ChIJjbKwLfEBaDQRa5omfaZ_Wbc",
+      "name": "七張",
+      "place_id": "ChIJjbKwLfEBaDQRa5omfaZ_Wbc",
+      "latitude": 24.97517,
+      "longitude": 121.54293999999999,
+      "address": "231台灣新北市新店區北新路二段150號23143 號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "150",
+        "route": "北新路二段",
+        "administrative_area_level_2": "新店區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "231"
+      }
+    },
+    {
+      "id": "ChIJl5yInMsCaDQRDx7XNC4XZPo",
+      "name": "海山",
+      "place_id": "ChIJl5yInMsCaDQRDx7XNC4XZPo",
+      "latitude": 24.9853715,
+      "longitude": 121.4487807,
+      "address": "236台灣新北市土城區樂利街16號B2",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B2",
+        "street_number": "16",
+        "route": "樂利街",
+        "administrative_area_level_3": "樂利里",
+        "political": "台灣",
+        "administrative_area_level_2": "土城區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "236"
+      }
+    },
+    {
+      "id": "ChIJvXF2mXMCaDQRFkej6Zu9nhY",
+      "name": "南勢角",
+      "place_id": "ChIJvXF2mXMCaDQRFkej6Zu9nhY",
+      "latitude": 24.990127599999997,
+      "longitude": 121.50910440000001,
+      "address": "23566台灣新北市中和區捷運路6號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "6",
+        "route": "捷運路",
+        "administrative_area_level_2": "中和區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "23566"
+      }
+    },
+    {
+      "id": "ChIJaxubGHcCaDQRhWPv6VLmKAY",
+      "name": "景安",
+      "place_id": "ChIJaxubGHcCaDQRhWPv6VLmKAY",
+      "latitude": 24.9938269,
+      "longitude": 121.5048261,
+      "address": "235台灣新北市中和區景平路486號",
+      "rating": 3.9,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "486號",
+        "route": "景平路",
+        "administrative_area_level_3": "景文里",
+        "political": "台灣",
+        "administrative_area_level_2": "中和區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "235"
+      }
+    },
+    {
+      "id": "ChIJWZYtGwsCaDQR9oJG59J-6Es",
+      "name": "景平",
+      "place_id": "ChIJWZYtGwsCaDQR9oJG59J-6Es",
+      "latitude": 24.992109,
+      "longitude": 121.51638609999998,
+      "address": "235台灣新北市中和區",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "中和區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "235"
+      }
+    },
+    {
+      "id": "ChIJYwiMQPkBaDQRNpwrYbK82rg",
+      "name": "大坪林",
+      "place_id": "ChIJYwiMQPkBaDQRNpwrYbK82rg",
+      "latitude": 24.982899,
+      "longitude": 121.54135099999999,
+      "address": "23143台灣新北市新店區北新路3段190號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "190",
+        "route": "北新路3段",
+        "administrative_area_level_2": "新店區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "23143"
+      }
+    },
+    {
+      "id": "ChIJ0S86hggCaDQRexA0p95lGhU",
+      "name": "秀朗橋",
+      "place_id": "ChIJ0S86hggCaDQRexA0p95lGhU",
+      "latitude": 24.9902926,
+      "longitude": 121.5250153,
+      "address": "235台灣新北市中和區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "中和區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "235"
+      }
+    },
+    {
+      "id": "ChIJt7135twDaDQRMk5sze1IcZw",
+      "name": "十四張",
+      "place_id": "ChIJt7135twDaDQRMk5sze1IcZw",
+      "latitude": 24.984399999999997,
+      "longitude": 121.52767999999999,
+      "address": "231台灣新北市新店區民權路282號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "282號",
+        "route": "民權路",
+        "administrative_area_level_3": "復興里",
+        "political": "台灣",
+        "administrative_area_level_2": "新店區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "231"
+      }
+    },
+    {
+      "id": "ChIJT5KOEAGqQjQRQ5N0MGFBJ88",
+      "name": "景美",
+      "place_id": "ChIJT5KOEAGqQjQRQ5N0MGFBJ88",
+      "latitude": 24.9928277,
+      "longitude": 121.54082720000001,
+      "address": "116台灣台北市文山區羅斯福路6段216號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "216",
+        "route": "羅斯福路6段",
+        "administrative_area_level_2": "文山區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "116"
+      }
+    },
+    {
+      "id": "ChIJ5auafR2oQjQRgKujkO5nyyE",
+      "name": "府中",
+      "place_id": "ChIJ5auafR2oQjQRgKujkO5nyyE",
+      "latitude": 25.008545500000004,
+      "longitude": 121.45943329999999,
+      "address": "220台灣新北市板橋區縣民大道1段193號B1",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "193",
+        "route": "縣民大道1段",
+        "administrative_area_level_2": "板橋區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "220"
+      }
+    },
+    {
+      "id": "ChIJR19DlLECaDQREiC-UFXMPsM",
+      "name": "亞東醫院",
+      "place_id": "ChIJR19DlLECaDQREiC-UFXMPsM",
+      "latitude": 24.998497699999998,
+      "longitude": 121.45254770000001,
+      "address": "220台灣新北市板橋區南雅南路二段17號B1",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B1",
+        "street_number": "17號",
+        "route": "南雅南路二段",
+        "administrative_area_level_3": "華東里",
+        "political": "台灣",
+        "administrative_area_level_2": "板橋區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "220"
+      }
+    },
+    {
+      "id": "ChIJhZ_FydWpQjQRFt1fgtBmGmI",
+      "name": "中和",
+      "place_id": "ChIJhZ_FydWpQjQRFt1fgtBmGmI",
+      "latitude": 25.002350000000003,
+      "longitude": 121.49597999999999,
+      "address": "23558台灣新北市中和區中山路二段271號",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "271號",
+        "route": "中山路二段",
+        "administrative_area_level_3": "福真里",
+        "political": "台灣",
+        "administrative_area_level_2": "中和區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "23558"
+      }
+    },
+    {
+      "id": "ChIJLZDAtC6oQjQRd5t74hjhmIs",
+      "name": "中原",
+      "place_id": "ChIJLZDAtC6oQjQRd5t74hjhmIs",
+      "latitude": 25.0084444,
+      "longitude": 121.48430809999998,
+      "address": "235台灣新北市中和區",
+      "rating": 4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "中和區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "235"
+      }
+    },
+    {
+      "id": "ChIJIcdiJiuoQjQR8YCa99_mBVs",
+      "name": "橋和",
+      "place_id": "ChIJIcdiJiuoQjQR8YCa99_mBVs",
+      "latitude": 25.0046002,
+      "longitude": 121.4904937,
+      "address": "235台灣新北市中和區",
+      "rating": 4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "中和區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "235"
+      }
+    },
+    {
+      "id": "ChIJzQLfNNypQjQR1IMeaR2onRo",
+      "name": "永安市場",
+      "place_id": "ChIJzQLfNNypQjQR1IMeaR2onRo",
+      "latitude": 25.0023452,
+      "longitude": 121.51110879999999,
+      "address": "235台灣新北市中和區中和路388號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "388",
+        "route": "中和路",
+        "administrative_area_level_2": "中和區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "235"
+      }
+    },
+    {
+      "id": "ChIJn37dFx2qQjQR4ytTaKwFYmA",
+      "name": "萬隆",
+      "place_id": "ChIJn37dFx2qQjQR4ytTaKwFYmA",
+      "latitude": 25.001683999999997,
+      "longitude": 121.5390875,
+      "address": "11678台灣台北市文山區羅斯福路五段214號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "214號",
+        "route": "羅斯福路五段",
+        "administrative_area_level_3": "萬隆里",
+        "political": "台灣",
+        "administrative_area_level_2": "文山區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "11678"
+      }
+    },
+    {
+      "id": "ChIJ5yTVEhOqQjQRl7-9BKdjVFg",
+      "name": "萬芳醫院",
+      "place_id": "ChIJ5yTVEhOqQjQRl7-9BKdjVFg",
+      "latitude": 24.9994093,
+      "longitude": 121.55805049999998,
+      "address": "116台灣台北市文山區興隆路三段113號",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "113",
+        "route": "興隆路三段",
+        "neighborhood": "木柵",
+        "political": "台灣",
+        "administrative_area_level_2": "文山區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "116"
+      }
+    },
+    {
+      "id": "ChIJu6jFChWqQjQRHUmyx3cEX8A",
+      "name": "辛亥",
+      "place_id": "ChIJu6jFChWqQjQRHUmyx3cEX8A",
+      "latitude": 25.005519099999997,
+      "longitude": 121.55709249999998,
+      "address": "116台灣台北市文山區辛亥路四段128號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "128",
+        "route": "辛亥路四段",
+        "administrative_area_level_3": "興泰里",
+        "political": "台灣",
+        "administrative_area_level_2": "文山區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "116"
+      }
+    },
+    {
+      "id": "ChIJFSERD2GqQjQRFfhHqMtlQRc",
+      "name": "動物園",
+      "place_id": "ChIJFSERD2GqQjQRFfhHqMtlQRc",
+      "latitude": 24.9982722,
+      "longitude": 121.579517,
+      "address": "11656台灣台北市文山區新光路二段32號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "32號",
+        "route": "新光路二段",
+        "neighborhood": "木柵",
+        "political": "台灣",
+        "administrative_area_level_3": "萬興里",
+        "administrative_area_level_2": "文山區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "11656"
+      }
+    },
+    {
+      "id": "ChIJB_ERcWaqQjQRYNA4apNdSE8",
+      "name": "木柵",
+      "place_id": "ChIJB_ERcWaqQjQRYNA4apNdSE8",
+      "latitude": 24.99824,
+      "longitude": 121.57314499999998,
+      "address": "116台灣台北市文山區木柵路四段135號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "135",
+        "route": "木柵路四段",
+        "neighborhood": "木柵",
+        "political": "台灣",
+        "administrative_area_level_3": "博嘉里",
+        "administrative_area_level_2": "文山區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "116"
+      }
+    },
+    {
+      "id": "ChIJp1651m6qQjQRL6tKbxTXpY0",
+      "name": "萬芳社區",
+      "place_id": "ChIJp1651m6qQjQRL6tKbxTXpY0",
+      "latitude": 24.998585,
+      "longitude": 121.568102,
+      "address": "116台灣台北市文山區",
+      "rating": 4.5,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "文山區",
+        "political": "台灣",
+        "neighborhood": "木柵",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "116"
+      }
+    },
+    {
+      "id": "ChIJP94SfIinQjQR4qVAnkZbj0g",
+      "name": "迴龍",
+      "place_id": "ChIJP94SfIinQjQR4qVAnkZbj0g",
+      "latitude": 25.021936399999998,
+      "longitude": 121.41162560000001,
+      "address": "242台灣新北市新莊區新北大道七段219號, 242",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "242",
+        "street_number": "219",
+        "route": "新北大道七段",
+        "neighborhood": "迴龍",
+        "political": "台灣",
+        "administrative_area_level_2": "新莊區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "242"
+      }
+    },
+    {
+      "id": "ChIJU3LBtJKnQjQRbkuUQ9-m4Ao",
+      "name": "丹鳳",
+      "place_id": "ChIJU3LBtJKnQjQRbkuUQ9-m4Ao",
+      "latitude": 25.0288568,
+      "longitude": 121.4224593,
+      "address": "242台灣新北市新莊區中正路624-1號B1",
+      "rating": 4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "624-1",
+        "route": "中正路",
+        "administrative_area_level_2": "新莊區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "242"
+      }
+    },
+    {
+      "id": "ChIJw2TA-xuoQjQR8tm_mW_VDUk",
+      "name": "板橋",
+      "place_id": "ChIJw2TA-xuoQjQR8tm_mW_VDUk",
+      "latitude": 25.0138225,
+      "longitude": 121.46244310000002,
+      "address": "220台灣新北市板橋區站前路5號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "5號",
+        "route": "站前路",
+        "administrative_area_level_3": "新民里",
+        "political": "台灣",
+        "administrative_area_level_2": "板橋區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "220"
+      }
+    },
+    {
+      "id": "ChIJA5a7CRmoQjQRNzLRjs9hObc",
+      "name": "板橋",
+      "place_id": "ChIJA5a7CRmoQjQRNzLRjs9hObc",
+      "latitude": 25.0153185,
+      "longitude": 121.4646952,
+      "address": "220台灣新北市板橋區",
+      "rating": 3.5,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "板橋區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "220"
+      }
+    },
+    {
+      "id": "ChIJz_mHNjSpQjQRRPtWYWP6kSA",
+      "name": "江子翠站",
+      "place_id": "ChIJz_mHNjSpQjQRRPtWYWP6kSA",
+      "latitude": 25.030974099999998,
+      "longitude": 121.47339059999999,
+      "address": "220台灣新北市板橋區文化路二段296號B1",
+      "rating": 4.5,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B1",
+        "street_number": "296號",
+        "route": "文化路二段",
+        "administrative_area_level_3": "忠翠里",
+        "political": "台灣",
+        "administrative_area_level_2": "板橋區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "220"
+      }
+    },
+    {
+      "id": "ChIJd3jLihWoQjQRTerPo_jekWs",
+      "name": "新埔",
+      "place_id": "ChIJd3jLihWoQjQRTerPo_jekWs",
+      "latitude": 25.0237622,
+      "longitude": 121.46840429999999,
+      "address": "220台灣新北市板橋區民生路三段2號B1",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B1",
+        "street_number": "2號",
+        "route": "民生路三段",
+        "administrative_area_level_3": "聯翠里",
+        "political": "台灣",
+        "administrative_area_level_2": "板橋區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "220"
+      }
+    },
+    {
+      "id": "ChIJb782GkGoQjQR0f6EZjJpzQI",
+      "name": "江子翠",
+      "place_id": "ChIJb782GkGoQjQR0f6EZjJpzQI",
+      "latitude": 25.0299168,
+      "longitude": 121.47232489999999,
+      "address": "220台灣新北市板橋區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "板橋區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "220"
+      }
+    },
+    {
+      "id": "ChIJMxcGDhWoQjQRA-qV4wQqkpk",
+      "name": "新埔民生",
+      "place_id": "ChIJMxcGDhWoQjQRA-qV4wQqkpk",
+      "latitude": 25.0262809,
+      "longitude": 121.4668305,
+      "address": "220台灣新北市板橋區",
+      "rating": 3.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "板橋區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "220"
+      }
+    },
+    {
+      "id": "ChIJOa-HEyOoQjQRZdlmTSUlfWM",
+      "name": "板新",
+      "place_id": "ChIJOa-HEyOoQjQRZdlmTSUlfWM",
+      "latitude": 25.014422699999997,
+      "longitude": 121.47226929999998,
+      "address": "220台灣新北市板橋區",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "板橋區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "220"
+      }
+    },
+    {
+      "id": "ChIJw5b1YOqpQjQRsP6_XIjKGaI",
+      "name": "頂溪",
+      "place_id": "ChIJw5b1YOqpQjQRsP6_XIjKGaI",
+      "latitude": 25.01382,
+      "longitude": 121.51551,
+      "address": "234台灣新北市永和區永和路二段168號B1",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "168",
+        "route": "永和路二段",
+        "administrative_area_level_2": "永和區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "234"
+      }
+    },
+    {
+      "id": "ChIJS_msiZqpQjQRIHZ1h0nma3E",
+      "name": "古亭",
+      "place_id": "ChIJS_msiZqpQjQRIHZ1h0nma3E",
+      "latitude": 25.0265508,
+      "longitude": 121.5228141,
+      "address": "100台灣台北市中正區羅斯福路二段164之1號B1樓",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B1樓",
+        "street_number": "164之1號",
+        "route": "羅斯福路二段",
+        "administrative_area_level_3": "頂東里",
+        "political": "台灣",
+        "administrative_area_level_2": "中正區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "100"
+      }
+    },
+    {
+      "id": "ChIJC46H_4qpQjQRe0EQLEuiSOk",
+      "name": "公館",
+      "place_id": "ChIJC46H_4qpQjQRe0EQLEuiSOk",
+      "latitude": 25.01491,
+      "longitude": 121.53421999999999,
+      "address": "100台灣台北市中正區羅斯福路四段64之1號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "64之1",
+        "route": "羅斯福路四段",
+        "administrative_area_level_3": "學府里",
+        "political": "台灣",
+        "administrative_area_level_2": "中正區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "100"
+      }
+    },
+    {
+      "id": "ChIJiUprWY6pQjQRaT22VQKS7u4",
+      "name": "台電大樓",
+      "place_id": "ChIJiUprWY6pQjQRaT22VQKS7u4",
+      "latitude": 25.0202411,
+      "longitude": 121.52906420000001,
+      "address": "100台灣台北市中正區羅斯福路三段126之5號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "126之5",
+        "route": "羅斯福路三段",
+        "administrative_area_level_2": "中正區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "100"
+      }
+    },
+    {
+      "id": "ChIJDdDXHCyqQjQR0Y_Bhqp_oJ0",
+      "name": "科技大樓",
+      "place_id": "ChIJDdDXHCyqQjQR0Y_Bhqp_oJ0",
+      "latitude": 25.0260787,
+      "longitude": 121.5434607,
+      "address": "106台灣台北市大安區復興南路二段235號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "235",
+        "route": "復興南路二段",
+        "administrative_area_level_2": "大安區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "106"
+      }
+    },
+    {
+      "id": "ChIJA5Hi4TOqQjQR1d5jQGkBU3A",
+      "name": "六張犁",
+      "place_id": "ChIJA5Hi4TOqQjQR1d5jQGkBU3A",
+      "latitude": 25.0238086,
+      "longitude": 121.55315229999998,
+      "address": "106台灣台北市大安區和平東路三段410號",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "410",
+        "route": "和平東路三段",
+        "administrative_area_level_3": "黎和里",
+        "political": "台灣",
+        "administrative_area_level_2": "大安區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "106"
+      }
+    },
+    {
+      "id": "ChIJPVHywTeqQjQRNickSxQCtgs",
+      "name": "麟光",
+      "place_id": "ChIJPVHywTeqQjQRNickSxQCtgs",
+      "latitude": 25.018510000000003,
+      "longitude": 121.55882369999998,
+      "address": "106台灣台北市大安區和平東路三段410號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "410",
+        "route": "和平東路三段",
+        "administrative_area_level_2": "大安區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "106"
+      }
+    },
+    {
+      "id": "ChIJ55kDVpOnQjQROCR4Qk4gQs0",
+      "name": "泰山貴和",
+      "place_id": "ChIJ55kDVpOnQjQROCR4Qk4gQs0",
+      "latitude": 25.0332198,
+      "longitude": 121.4226287,
+      "address": "24355台灣新北市泰山區新北大道六段460號",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "460",
+        "route": "新北大道六段",
+        "administrative_area_level_3": "貴和里",
+        "political": "台灣",
+        "administrative_area_level_2": "泰山區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "24355"
+      }
+    },
+    {
+      "id": "ChIJ_7olNeanQjQRMlXkiHisOFE",
+      "name": "輔大",
+      "place_id": "ChIJ_7olNeanQjQRMlXkiHisOFE",
+      "latitude": 25.0329026,
+      "longitude": 121.4352511,
+      "address": "242台灣新北市新莊區中正路510之1號之 B1",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "510之1",
+        "route": "中正路",
+        "administrative_area_level_2": "新莊區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "242"
+      }
+    },
+    {
+      "id": "ChIJ77EQ5nOoQjQRWiWlq2_TuF8",
+      "name": "新莊",
+      "place_id": "ChIJ77EQ5nOoQjQRWiWlq2_TuF8",
+      "latitude": 25.0361555,
+      "longitude": 121.45254999999999,
+      "address": "242台灣新北市新莊區中正路138號B1",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B1",
+        "street_number": "138",
+        "route": "中正路",
+        "administrative_area_level_2": "新莊區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "242"
+      }
+    },
+    {
+      "id": "ChIJ72wnWW-oQjQROmwGbl-UEmQ",
+      "name": "頭前庄",
+      "place_id": "ChIJ72wnWW-oQjQROmwGbl-UEmQ",
+      "latitude": 25.0398423,
+      "longitude": 121.46052440000001,
+      "address": "242台灣新北市新莊區思源路18號B1",
+      "rating": 4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B1",
+        "street_number": "18",
+        "route": "思源路",
+        "administrative_area_level_3": "思源里",
+        "political": "台灣",
+        "administrative_area_level_2": "新莊區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "242"
+      }
+    },
+    {
+      "id": "ChIJ2xvFDV-oQjQRcf19_r-LYl4",
+      "name": "先嗇宮",
+      "place_id": "ChIJ2xvFDV-oQjQRcf19_r-LYl4",
+      "latitude": 25.046248799999997,
+      "longitude": 121.47149280000001,
+      "address": "241台灣新北市三重區重新路五段515號B1",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "515",
+        "route": "重新路五段",
+        "administrative_area_level_2": "三重區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "241"
+      }
+    },
+    {
+      "id": "ChIJUYHP2K6pQjQRjYUQWX4zGWQ",
+      "name": "龍山寺",
+      "place_id": "ChIJUYHP2K6pQjQRjYUQWX4zGWQ",
+      "latitude": 25.0351014,
+      "longitude": 121.49980190000001,
+      "address": "108台灣台北市萬華區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "萬華區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "108"
+      }
+    },
+    {
+      "id": "ChIJlWImqHKpQjQREk5-6lec4-w",
+      "name": "臺北",
+      "place_id": "ChIJlWImqHKpQjQREk5-6lec4-w",
+      "latitude": 25.04882,
+      "longitude": 121.51374999999999,
+      "address": "100台灣台北市中正區鄭州路8號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "8號",
+        "route": "鄭州路",
+        "administrative_area_level_3": "黎明里",
+        "political": "台灣",
+        "administrative_area_level_2": "中正區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "100"
+      }
+    },
+    {
+      "id": "ChIJneUTn3KpQjQRGGR7w7CKOQg",
+      "name": "臺北",
+      "place_id": "ChIJneUTn3KpQjQRGGR7w7CKOQg",
+      "latitude": 25.04625,
+      "longitude": 121.51753000000001,
+      "address": "10041台灣台北市中正區忠孝西路1段49號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "49號",
+        "route": "忠孝西路1段",
+        "administrative_area_level_3": "黎明里",
+        "political": "台灣",
+        "administrative_area_level_2": "中正區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10041"
+      }
+    },
+    {
+      "id": "ChIJE0ZOgAmpQjQRt-nR5SlhrYI",
+      "name": "西門",
+      "place_id": "ChIJE0ZOgAmpQjQRt-nR5SlhrYI",
+      "latitude": 25.0421884,
+      "longitude": 121.5082995,
+      "address": "100台灣台北市中正區寶慶路32-1號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "32-1",
+        "route": "寶慶路",
+        "administrative_area_level_3": "西門里",
+        "political": "台灣",
+        "administrative_area_level_2": "中正區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "100"
+      }
+    },
+    {
+      "id": "ChIJ-XhPiQ2pQjQR6YjSYT-C5WU",
+      "name": "北門",
+      "place_id": "ChIJ-XhPiQ2pQjQR6YjSYT-C5WU",
+      "latitude": 25.049284999999998,
+      "longitude": 121.510278,
+      "address": "10341台灣台北市大同區塔城街10號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "10",
+        "route": "塔城街",
+        "administrative_area_level_2": "大同區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10341"
+      }
+    },
+    {
+      "id": "ChIJUcGqx56pQjQRQXwl7rqTxys",
+      "name": "中正紀念堂",
+      "place_id": "ChIJUcGqx56pQjQRQXwl7rqTxys",
+      "latitude": 25.0326494,
+      "longitude": 121.5183115,
+      "address": "100台灣台北市中正區羅斯福路一段8之1號之",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "8之1",
+        "route": "羅斯福路一段",
+        "administrative_area_level_2": "中正區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "100"
+      }
+    },
+    {
+      "id": "ChIJn74-D6GpQjQRYJ0BSWj_hi4",
+      "name": "小南門",
+      "place_id": "ChIJn74-D6GpQjQRYJ0BSWj_hi4",
+      "latitude": 25.0356186,
+      "longitude": 121.5108002,
+      "address": "10066台灣台北市中正區愛國西路22號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "22",
+        "route": "愛國西路",
+        "neighborhood": "博愛特區",
+        "political": "台灣",
+        "administrative_area_level_2": "中正區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10066"
+      }
+    },
+    {
+      "id": "ChIJCenn7nSpQjQR_I73pnnJhFA",
+      "name": "台大醫院",
+      "place_id": "ChIJCenn7nSpQjQR_I73pnnJhFA",
+      "latitude": 25.0412666,
+      "longitude": 121.5166385,
+      "address": "100台灣台北市中正區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "中正區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "100"
+      }
+    },
+    {
+      "id": "ChIJfRB98nypQjQRIKH2q1YtDI0",
+      "name": "忠孝新生",
+      "place_id": "ChIJfRB98nypQjQRIKH2q1YtDI0",
+      "latitude": 25.042360000000002,
+      "longitude": 121.53289999999998,
+      "address": "106台灣台北市大安區新生南路一段67號10652",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "10652",
+        "street_number": "67",
+        "route": "新生南路一段",
+        "administrative_area_level_2": "大安區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "106"
+      }
+    },
+    {
+      "id": "ChIJ4TkocNOrQjQRCAHSQZCAxB4",
+      "name": "大安",
+      "place_id": "ChIJ4TkocNOrQjQRCAHSQZCAxB4",
+      "latitude": 25.033200299999997,
+      "longitude": 121.54352989999998,
+      "address": "106台灣台北市大安區信義路四段2號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "2",
+        "route": "信義路四段",
+        "administrative_area_level_3": "住安里",
+        "political": "台灣",
+        "administrative_area_level_2": "大安區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "106"
+      }
+    },
+    {
+      "id": "ChIJ58qEY4KpQjQRPxeOc0U0pak",
+      "name": "東門",
+      "place_id": "ChIJ58qEY4KpQjQRPxeOc0U0pak",
+      "latitude": 25.033876199999998,
+      "longitude": 121.5287139,
+      "address": "10650台灣台北市大安區信義路2段166號B1",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "166",
+        "route": "信義路2段",
+        "neighborhood": "東門",
+        "political": "台灣",
+        "administrative_area_level_2": "大安區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10650"
+      }
+    },
+    {
+      "id": "ChIJK6b6TnCpQjQR_4q7CGIoZrw",
+      "name": "善導寺",
+      "place_id": "ChIJK6b6TnCpQjQR_4q7CGIoZrw",
+      "latitude": 25.0448491,
+      "longitude": 121.52336039999999,
+      "address": "10049台灣台北市中正區忠孝東路1段58號B1",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "58",
+        "route": "忠孝東路1段",
+        "administrative_area_level_2": "中正區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10049"
+      }
+    },
+    {
+      "id": "ChIJh9adiH-pQjQRCkkUiYLZBCA",
+      "name": "大安森林公園",
+      "place_id": "ChIJh9adiH-pQjQRCkkUiYLZBCA",
+      "latitude": 25.0335283,
+      "longitude": 121.53531309999998,
+      "address": "106台灣台北市大安區信義路三段100號",
+      "rating": 4.6,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "100",
+        "route": "信義路三段",
+        "administrative_area_level_2": "大安區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "106"
+      }
+    },
+    {
+      "id": "ChIJh5HYCsWrQjQRYVlmxRjtu9E",
+      "name": "忠孝敦化",
+      "place_id": "ChIJh5HYCsWrQjQRYVlmxRjtu9E",
+      "latitude": 25.0413698,
+      "longitude": 121.55049279999999,
+      "address": "106台灣台北市大安區忠孝東路四段182號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "182號",
+        "route": "忠孝東路四段",
+        "administrative_area_level_3": "建倫里",
+        "political": "台灣",
+        "administrative_area_level_2": "大安區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "106"
+      }
+    },
+    {
+      "id": "ChIJ5aXTptCrQjQRZmjgmU4h9Sk",
+      "name": "忠孝復興",
+      "place_id": "ChIJ5aXTptCrQjQRZmjgmU4h9Sk",
+      "latitude": 25.0416216,
+      "longitude": 121.5437808,
+      "address": "106台灣台北市大安區忠孝東路三段302號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "302",
+        "route": "忠孝東路三段",
+        "administrative_area_level_3": "義村里",
+        "political": "台灣",
+        "administrative_area_level_2": "大安區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "106"
+      }
+    },
+    {
+      "id": "ChIJiW9eYrarQjQR3aG-P4ODq_M",
+      "name": "台北101/世貿",
+      "place_id": "ChIJiW9eYrarQjQR3aG-P4ODq_M",
+      "latitude": 25.033030399999998,
+      "longitude": 121.5627598,
+      "address": "110台灣台北市信義區信義路五段20號B1",
+      "rating": 4.5,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "20",
+        "route": "信義路五段",
+        "administrative_area_level_2": "信義區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "110"
+      }
+    },
+    {
+      "id": "ChIJgTD0CMerQjQRuEohy9I5Jz4",
+      "name": "國父紀念館",
+      "place_id": "ChIJgTD0CMerQjQRuEohy9I5Jz4",
+      "latitude": 25.041378299999998,
+      "longitude": 121.5575216,
+      "address": "11072台灣台北市信義區忠孝東路四段400號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "400",
+        "route": "忠孝東路四段",
+        "administrative_area_level_3": "興隆里",
+        "political": "台灣",
+        "administrative_area_level_2": "信義區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "11072"
+      }
+    },
+    {
+      "id": "ChIJSVE4FcyrQjQRuQUTuyVC2u0",
+      "name": "信義安和",
+      "place_id": "ChIJSVE4FcyrQjQRuQUTuyVC2u0",
+      "latitude": 25.0332705,
+      "longitude": 121.5529574,
+      "address": "106台灣台北市大安區信義路四段",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "route": "信義路四段",
+        "administrative_area_level_2": "大安區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "106"
+      }
+    },
+    {
+      "id": "ChIJ-dJnWbmrQjQRFpnfhQbM9nA",
+      "name": "市政府",
+      "place_id": "ChIJ-dJnWbmrQjQRFpnfhQbM9nA",
+      "latitude": 25.041236599999998,
+      "longitude": 121.5665591,
+      "address": "110台灣台北市信義區忠孝東路五段2號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "2",
+        "route": "忠孝東路五段",
+        "administrative_area_level_3": "興雅里",
+        "political": "台灣",
+        "administrative_area_level_2": "信義區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "110"
+      }
+    },
+    {
+      "id": "ChIJ_eP9zLGrQjQRmCnYNOvvs8o",
+      "name": "象山",
+      "place_id": "ChIJ_eP9zLGrQjQRmCnYNOvvs8o",
+      "latitude": 25.0328146,
+      "longitude": 121.5700821,
+      "address": "110台灣台北市信義區",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "信義區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "110"
+      }
+    },
+    {
+      "id": "ChIJXT5G3aOrQjQR0qHZrNj6Qkg",
+      "name": "永春",
+      "place_id": "ChIJXT5G3aOrQjQR0qHZrNj6Qkg",
+      "latitude": 25.040827399999998,
+      "longitude": 121.57631549999999,
+      "address": "110台灣台北市信義區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "信義區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "110"
+      }
+    },
+    {
+      "id": "ChIJKV3m2J-rQjQR5cXYLeVGxTc",
+      "name": "後山埤",
+      "place_id": "ChIJKV3m2J-rQjQR5cXYLeVGxTc",
+      "latitude": 25.04505,
+      "longitude": 121.58251999999999,
+      "address": "115台灣台北市南港區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "南港區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "115"
+      }
+    },
+    {
+      "id": "ChIJuQ1hf9OnQjQRj0X3KMg4EDE",
+      "name": "泰山",
+      "place_id": "ChIJuQ1hf9OnQjQRj0X3KMg4EDE",
+      "latitude": 25.0532126,
+      "longitude": 121.43943569999999,
+      "address": "24357台灣新北市泰山區新北大道四段431號",
+      "rating": 3.8,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "431",
+        "route": "新北大道四段",
+        "administrative_area_level_2": "泰山區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "24357"
+      }
+    },
+    {
+      "id": "ChIJ6XOT2I-oQjQR04Jwl5s059w",
+      "name": "新北產業園區",
+      "place_id": "ChIJ6XOT2I-oQjQR04Jwl5s059w",
+      "latitude": 25.061716999999998,
+      "longitude": 121.459187,
+      "address": "242台灣新北市新莊區五工路37號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "37",
+        "route": "五工路",
+        "administrative_area_level_2": "新莊區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "242"
+      }
+    },
+    {
+      "id": "ChIJ48DbGiqmQjQROH1VKkqEIuI",
+      "name": "新莊副都心",
+      "place_id": "ChIJ48DbGiqmQjQROH1VKkqEIuI",
+      "latitude": 25.0592415,
+      "longitude": 121.44561619999999,
+      "address": "242台灣新北市新莊區新北大道四段188號",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "188",
+        "route": "新北大道四段",
+        "administrative_area_level_2": "新莊區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "242"
+      }
+    },
+    {
+      "id": "ChIJWwY7KpCoQjQRSWo8jtR307E",
+      "name": "新北產業園區",
+      "place_id": "ChIJWwY7KpCoQjQRSWo8jtR307E",
+      "latitude": 25.0613188,
+      "longitude": 121.459741,
+      "address": "242台灣新北市新莊區五工路35號、37號",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "35號、37號",
+        "route": "五工路",
+        "administrative_area_level_3": "福基里",
+        "political": "台灣",
+        "administrative_area_level_2": "新莊區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "242"
+      }
+    },
+    {
+      "id": "ChIJ789dYmKoQjQRcxoZiPtxge0",
+      "name": "幸福",
+      "place_id": "ChIJ789dYmKoQjQRcxoZiPtxge0",
+      "latitude": 25.049979999999998,
+      "longitude": 121.45998,
+      "address": "242台灣新北市新莊區",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "新莊區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "242"
+      }
+    },
+    {
+      "id": "ChIJPTQeIPuoQjQR7xoSGQpcyRE",
+      "name": "三重",
+      "place_id": "ChIJPTQeIPuoQjQR7xoSGQpcyRE",
+      "latitude": 25.0548073,
+      "longitude": 121.4827149,
+      "address": "241台灣新北市三重區捷運路36號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "36",
+        "route": "捷運路",
+        "administrative_area_level_2": "三重區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "241"
+      }
+    },
+    {
+      "id": "ChIJIdXfsuSoQjQRi68tbrVVko4",
+      "name": "三重",
+      "place_id": "ChIJIdXfsuSoQjQRi68tbrVVko4",
+      "latitude": 25.055695,
+      "longitude": 121.484259,
+      "address": "24161台灣新北市三重區捷運路36號B1",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "36",
+        "route": "捷運路",
+        "administrative_area_level_2": "三重區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "24161"
+      }
+    },
+    {
+      "id": "ChIJn8RjkCKpQjQRBcneshV7mwc",
+      "name": "台北橋",
+      "place_id": "ChIJn8RjkCKpQjQRBcneshV7mwc",
+      "latitude": 25.06318,
+      "longitude": 121.50044000000001,
+      "address": "241台灣新北市三重區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "三重區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "241"
+      }
+    },
+    {
+      "id": "ChIJWf8yFx6pQjQRHhzXToTUVKs",
+      "name": "菜寮",
+      "place_id": "ChIJWf8yFx6pQjQRHhzXToTUVKs",
+      "latitude": 25.05981,
+      "longitude": 121.49146,
+      "address": "241台灣新北市三重區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "三重區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "241"
+      }
+    },
+    {
+      "id": "ChIJE-kmU2mpQjQRg3J0ihh6nvI",
+      "name": "中山",
+      "place_id": "ChIJE-kmU2mpQjQRg3J0ihh6nvI",
+      "latitude": 25.052685,
+      "longitude": 121.52039099999999,
+      "address": "10491台灣台北市中山區南京西路16號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "16",
+        "route": "南京西路",
+        "administrative_area_level_2": "中山區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10491"
+      }
+    },
+    {
+      "id": "ChIJP-pgUEGpQjQR6gB8XD9FvFU",
+      "name": "民權西路",
+      "place_id": "ChIJP-pgUEGpQjQR6gB8XD9FvFU",
+      "latitude": 25.0628632,
+      "longitude": 121.51972130000001,
+      "address": "103台灣台北市大同區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "大同區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "103"
+      }
+    },
+    {
+      "id": "ChIJQRJ5VmypQjQRwvCsSW8Y3UQ",
+      "name": "大橋頭",
+      "place_id": "ChIJQRJ5VmypQjQRwvCsSW8Y3UQ",
+      "latitude": 25.0630769,
+      "longitude": 121.5135995,
+      "address": "10357台灣台北市大同區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "大同區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10357"
+      }
+    },
+    {
+      "id": "ChIJpZy34mmpQjQRJkQZ9uRfl6c",
+      "name": "雙連",
+      "place_id": "ChIJpZy34mmpQjQRJkQZ9uRfl6c",
+      "latitude": 25.057778799999998,
+      "longitude": 121.52066709999998,
+      "address": "104台灣台北市大同區民生西路47號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "47",
+        "route": "民生西路",
+        "administrative_area_level_2": "大同區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "104"
+      }
+    },
+    {
+      "id": "ChIJTXwdHGGpQjQRnfLEZSwuzU8",
+      "name": "松江南京",
+      "place_id": "ChIJTXwdHGGpQjQRnfLEZSwuzU8",
+      "latitude": 25.0519821,
+      "longitude": 121.5330819,
+      "address": "104台灣台北市中山區松江路126號B1",
+      "rating": 4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "floor": "B1",
+        "street_number": "126",
+        "route": "松江路",
+        "administrative_area_level_3": "中山區",
+        "political": "台灣",
+        "administrative_area_level_2": "中山區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "104"
+      }
+    },
+    {
+      "id": "ChIJk8Tv8t2rQjQRhjLuF1zoizE",
+      "name": "南京復興",
+      "place_id": "ChIJk8Tv8t2rQjQRhjLuF1zoizE",
+      "latitude": 25.0520785,
+      "longitude": 121.544009,
+      "address": "105台灣台北市松山區南京東路三段253號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "253號",
+        "route": "南京東路三段",
+        "administrative_area_level_3": "中正里",
+        "political": "台灣",
+        "administrative_area_level_2": "松山區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "105"
+      }
+    },
+    {
+      "id": "ChIJlYQez16pQjQRe6yoEpXZXzU",
+      "name": "行天宮",
+      "place_id": "ChIJlYQez16pQjQRe6yoEpXZXzU",
+      "latitude": 25.05972,
+      "longitude": 121.53318,
+      "address": "10468台灣台北市中山區松江路316號B1",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B1",
+        "street_number": "316",
+        "route": "松江路",
+        "administrative_area_level_3": "新生里",
+        "political": "台灣",
+        "administrative_area_level_2": "中山區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10468"
+      }
+    },
+    {
+      "id": "ChIJkdm6RVupQjQRLOo55q5V9pU",
+      "name": "中山國小",
+      "place_id": "ChIJkdm6RVupQjQRLOo55q5V9pU",
+      "latitude": 25.062712299999998,
+      "longitude": 121.5264705,
+      "address": "10491台灣台北市中山區民權東路一段71號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "71",
+        "route": "民權東路一段",
+        "administrative_area_level_2": "中山區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10491"
+      }
+    },
+    {
+      "id": "ChIJtfB5Q5SrQjQRyz695tqOPvA",
+      "name": "南京三民",
+      "place_id": "ChIJtfB5Q5SrQjQRyz695tqOPvA",
+      "latitude": 25.051429,
+      "longitude": 121.56385800000001,
+      "address": "10569台灣台北市松山區南京東路5段237號",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "237",
+        "route": "南京東路5段",
+        "administrative_area_level_3": "中正里",
+        "political": "台灣",
+        "administrative_area_level_2": "松山區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10569"
+      }
+    },
+    {
+      "id": "ChIJj51KzumrQjQR56km1rcHcuQ",
+      "name": "台北小巨蛋",
+      "place_id": "ChIJj51KzumrQjQR56km1rcHcuQ",
+      "latitude": 25.051668,
+      "longitude": 121.551879,
+      "address": "10553台灣台北市松山區南京東路4段10之1號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "10之1號",
+        "route": "南京東路4段",
+        "administrative_area_level_2": "松山區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10553"
+      }
+    },
+    {
+      "id": "ChIJH73O8uSrQjQRCIu39beHvok",
+      "name": "中山國中",
+      "place_id": "ChIJH73O8uSrQjQRCIu39beHvok",
+      "latitude": 25.060779999999998,
+      "longitude": 121.54420760000001,
+      "address": "105台灣台北市松山區",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "松山區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "105"
+      }
+    },
+    {
+      "id": "ChIJJ6afuvGrQjQRpsRYaAFpXR4",
+      "name": "松山機場",
+      "place_id": "ChIJJ6afuvGrQjQRpsRYaAFpXR4",
+      "latitude": 25.0633862,
+      "longitude": 121.551738,
+      "address": "10576台灣台北市松山区敦化北路338號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "338號",
+        "route": "敦化北路",
+        "administrative_area_level_3": "精忠里",
+        "political": "台灣",
+        "administrative_area_level_2": "松山区",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10576"
+      }
+    },
+    {
+      "id": "ChIJvwx2J5yrQjQRt_9-mJyEX6Q",
+      "name": "松山",
+      "place_id": "ChIJvwx2J5yrQjQRt_9-mJyEX6Q",
+      "latitude": 25.049830999999998,
+      "longitude": 121.5775002,
+      "address": "105台灣台北市松山區八德路四段105號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "105",
+        "route": "八德路四段",
+        "administrative_area_level_2": "松山區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "105"
+      }
+    },
+    {
+      "id": "ChIJWZnqEHCrQjQR7vw2PJf_UFE",
+      "name": "昆陽",
+      "place_id": "ChIJWZnqEHCrQjQR7vw2PJf_UFE",
+      "latitude": 25.050490399999997,
+      "longitude": 121.5932272,
+      "address": "115台灣台北市南港區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "南港區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "115"
+      }
+    },
+    {
+      "id": "ChIJWQ7X8VerQjQRa16L1Bd_aa8",
+      "name": "南港展覽館",
+      "place_id": "ChIJWQ7X8VerQjQRa16L1Bd_aa8",
+      "latitude": 25.0553284,
+      "longitude": 121.6177902,
+      "address": "115台灣台北市南港區南港路一段32號南港展覽館站",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "point_of_interest": "南港展覽館站",
+        "establishment": "南港展覽館站",
+        "street_number": "32",
+        "route": "南港路一段",
+        "administrative_area_level_3": "三重里",
+        "political": "台灣",
+        "administrative_area_level_2": "南港區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "115"
+      }
+    },
+    {
+      "id": "ChIJG85PoaSsQjQRR26zKJgPMZo",
+      "name": "東湖",
+      "place_id": "ChIJG85PoaSsQjQRR26zKJgPMZo",
+      "latitude": 25.0671748,
+      "longitude": 121.6116127,
+      "address": "114台灣台北市內湖區康寧路三段",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "route": "康寧路三段",
+        "administrative_area_level_3": "南湖里",
+        "political": "台灣",
+        "administrative_area_level_2": "內湖區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "114"
+      }
+    },
+    {
+      "id": "ChIJsWjDlF2rQjQR5FnPVKTjO-s",
+      "name": "南港",
+      "place_id": "ChIJsWjDlF2rQjQR5FnPVKTjO-s",
+      "latitude": 25.0520954,
+      "longitude": 121.6070715,
+      "address": "115台灣台北市南港區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "南港區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "115"
+      }
+    },
+    {
+      "id": "ChIJ3XB1OqasQjQRFW4gNEKjKCA",
+      "name": "南港軟體園區",
+      "place_id": "ChIJ3XB1OqasQjQRFW4gNEKjKCA",
+      "latitude": 25.0600781,
+      "longitude": 121.6159153,
+      "address": "115台灣台北市南港區經貿二路",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "route": "經貿二路",
+        "administrative_area_level_3": "三重里",
+        "political": "台灣",
+        "administrative_area_level_2": "南港區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "115"
+      }
+    },
+    {
+      "id": "ChIJ18va1M-oQjQRRMwxzPdZeCE",
+      "name": "徐匯中學",
+      "place_id": "ChIJ18va1M-oQjQRRMwxzPdZeCE",
+      "latitude": 25.080482,
+      "longitude": 121.4800132,
+      "address": "247台灣新北市蘆洲區中山一路3號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "3",
+        "route": "中山一路",
+        "administrative_area_level_2": "蘆洲區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "247"
+      }
+    },
+    {
+      "id": "ChIJH4xZV9eoQjQR-HkUe6hZwqk",
+      "name": "三和國中",
+      "place_id": "ChIJH4xZV9eoQjQR-HkUe6hZwqk",
+      "latitude": 25.0767991,
+      "longitude": 121.48646199999997,
+      "address": "241台灣新北市三重區三和路四段",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "route": "三和路四段",
+        "administrative_area_level_2": "三重區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "241"
+      }
+    },
+    {
+      "id": "ChIJs4JEniapQjQRgaPC0KYPap0",
+      "name": "三重國小",
+      "place_id": "ChIJs4JEniapQjQRgaPC0KYPap0",
+      "latitude": 25.0706729,
+      "longitude": 121.4967621,
+      "address": "241台灣新北市三重區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "三重區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "241"
+      }
+    },
+    {
+      "id": "ChIJOXm-1U6pQjQR7XGwntY6vH8",
+      "name": "圓山",
+      "place_id": "ChIJOXm-1U6pQjQR7XGwntY6vH8",
+      "latitude": 25.07135,
+      "longitude": 121.52011999999999,
+      "address": "103台灣台北市大同區酒泉街9之1號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "9之1號",
+        "route": "酒泉街",
+        "administrative_area_level_2": "大同區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "103"
+      }
+    },
+    {
+      "id": "ChIJa3NR3LGuQjQRD9luxlkVfro",
+      "name": "劍潭",
+      "place_id": "ChIJa3NR3LGuQjQRD9luxlkVfro",
+      "latitude": 25.084279799999997,
+      "longitude": 121.5249762,
+      "address": "111台灣台北市士林區中山北路五段65號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "65號",
+        "route": "中山北路五段",
+        "administrative_area_level_3": "義信里",
+        "political": "台灣",
+        "administrative_area_level_2": "士林區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "111"
+      }
+    },
+    {
+      "id": "ChIJ45EUwAWsQjQR4c98O70_H04",
+      "name": "大直",
+      "place_id": "ChIJ45EUwAWsQjQR4c98O70_H04",
+      "latitude": 25.0798837,
+      "longitude": 121.54714930000002,
+      "address": "104台灣台北市中山區",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "neighborhood": "大直",
+        "administrative_area_level_2": "中山區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "104"
+      }
+    },
+    {
+      "id": "ChIJ48QKW2SsQjQRkJKSrz02ZC8",
+      "name": "港墘",
+      "place_id": "ChIJ48QKW2SsQjQRkJKSrz02ZC8",
+      "latitude": 25.0800546,
+      "longitude": 121.57520029999999,
+      "address": "114台灣台北市內湖區",
+      "rating": 4.1,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "內湖區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "114"
+      }
+    },
+    {
+      "id": "ChIJL3Ww7W6sQjQR5Ss0Y6FH8yA",
+      "name": "西湖",
+      "place_id": "ChIJL3Ww7W6sQjQR5Ss0Y6FH8yA",
+      "latitude": 25.0821512,
+      "longitude": 121.5672853,
+      "address": "114台灣台北市內湖區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "內湖區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "114"
+      }
+    },
+    {
+      "id": "ChIJYXlQvYmsQjQRV9gSASUCAQ4",
+      "name": "文德",
+      "place_id": "ChIJYXlQvYmsQjQRV9gSASUCAQ4",
+      "latitude": 25.078551299999997,
+      "longitude": 121.58495029999999,
+      "address": "114台灣台北市內湖區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "內湖區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "114"
+      }
+    },
+    {
+      "id": "ChIJCbOMWe2sQjQREmZ-AUyC67g",
+      "name": "內湖",
+      "place_id": "ChIJCbOMWe2sQjQREmZ-AUyC67g",
+      "latitude": 25.0835589,
+      "longitude": 121.59424860000001,
+      "address": "114台灣台北市內湖區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "內湖區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "114"
+      }
+    },
+    {
+      "id": "ChIJ1UfpvL2sQjQRpTLZt9K5wCk",
+      "name": "葫洲",
+      "place_id": "ChIJ1UfpvL2sQjQRpTLZt9K5wCk",
+      "latitude": 25.0724174,
+      "longitude": 121.6078852,
+      "address": "114台灣台北市內湖區康寧路三段",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "route": "康寧路三段",
+        "administrative_area_level_2": "內湖區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "114"
+      }
+    },
+    {
+      "id": "ChIJ5yiUqeusQjQRVeBtapp1o8w",
+      "name": "大湖公園",
+      "place_id": "ChIJ5yiUqeusQjQRVeBtapp1o8w",
+      "latitude": 25.0837953,
+      "longitude": 121.60220650000001,
+      "address": "114台灣台北市內湖區",
+      "rating": 4.5,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "內湖區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "114"
+      }
+    },
+    {
+      "id": "ChIJAXNrxrSoQjQRTsdOCRIRXhA",
+      "name": "蘆洲",
+      "place_id": "ChIJAXNrxrSoQjQRTsdOCRIRXhA",
+      "latitude": 25.0917337,
+      "longitude": 121.46454119999999,
+      "address": "247台灣新北市蘆洲區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "新北市",
+        "administrative_area_level_2": "蘆洲區",
+        "administrative_area_level_1": "新北市",
+        "postal_code": "247"
+      }
+    },
+    {
+      "id": "ChIJe6k95cuoQjQR-RDJE-nYgwA",
+      "name": "三民高中",
+      "place_id": "ChIJe6k95cuoQjQR-RDJE-nYgwA",
+      "latitude": 25.0855718,
+      "longitude": 121.47350539999998,
+      "address": "24760台灣新北市蘆洲區Sanmin Rd105號B1",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "subpremise": "B1",
+        "street_number": "105",
+        "route": "Sanmin Rd",
+        "administrative_area_level_2": "蘆洲區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "24760"
+      }
+    },
+    {
+      "id": "ChIJwSViqKSuQjQR18H96pk4DU4",
+      "name": "士林",
+      "place_id": "ChIJwSViqKSuQjQR18H96pk4DU4",
+      "latitude": 25.093456,
+      "longitude": 121.526214,
+      "address": "111台灣台北市士林區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "士林區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "111"
+      }
+    },
+    {
+      "id": "ChIJEb0NuBOsQjQRjPoDfffWxXo",
+      "name": "劍南路",
+      "place_id": "ChIJEb0NuBOsQjQRjPoDfffWxXo",
+      "latitude": 25.084863,
+      "longitude": 121.55559609999999,
+      "address": "10491台灣台北市中山區",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "中山區",
+        "political": "台灣",
+        "neighborhood": "大直",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "10491"
+      }
+    },
+    {
+      "id": "ChIJ_d76_JauQjQR_QGQANF33hs",
+      "name": "芝山",
+      "place_id": "ChIJ_d76_JauQjQR_QGQANF33hs",
+      "latitude": 25.1029453,
+      "longitude": 121.52252009999998,
+      "address": "111台灣台北市士林區福國路70號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "70",
+        "route": "福國路",
+        "administrative_area_level_2": "士林區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "111"
+      }
+    },
+    {
+      "id": "ChIJD2XnIY2uQjQRhmxwa7e9MHk",
+      "name": "石牌",
+      "place_id": "ChIJD2XnIY2uQjQRhmxwa7e9MHk",
+      "latitude": 25.1144046,
+      "longitude": 121.51560899999998,
+      "address": "112台灣台北市北投區石牌路一段200號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "200",
+        "route": "石牌路一段",
+        "administrative_area_level_2": "北投區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "112"
+      }
+    },
+    {
+      "id": "ChIJZ4MPPJKuQjQRFFfRxNIUxq8",
+      "name": "明德",
+      "place_id": "ChIJZ4MPPJKuQjQRFFfRxNIUxq8",
+      "latitude": 25.1098383,
+      "longitude": 121.51874789999998,
+      "address": "112台灣台北市北投區明德路95號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "95",
+        "route": "明德路",
+        "administrative_area_level_2": "北投區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "112"
+      }
+    },
+    {
+      "id": "ChIJuwNH3fauQjQREm_h9W0M6II",
+      "name": "唭哩岸",
+      "place_id": "ChIJuwNH3fauQjQREm_h9W0M6II",
+      "latitude": 25.120833299999997,
+      "longitude": 121.50616529999999,
+      "address": "112台灣台北市北投區東華街二段301號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "301",
+        "route": "東華街二段",
+        "administrative_area_level_2": "北投區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "112"
+      }
+    },
+    {
+      "id": "ChIJh82x3XKvQjQRBHPImmpVrEM",
+      "name": "關渡",
+      "place_id": "ChIJh82x3XKvQjQRBHPImmpVrEM",
+      "latitude": 25.12563,
+      "longitude": 121.46709999999999,
+      "address": "112台灣台北市北投區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "neighborhood": "關渡",
+        "administrative_area_level_2": "北投區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "112"
+      }
+    },
+    {
+      "id": "ChIJi_NeOwqvQjQR2XjJYAEymrs",
+      "name": "忠義",
+      "place_id": "ChIJi_NeOwqvQjQR2XjJYAEymrs",
+      "latitude": 25.130930799999998,
+      "longitude": 121.47332200000001,
+      "address": "112台灣台北市北投區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "country": "台灣",
+        "political": "台北市",
+        "administrative_area_level_2": "北投區",
+        "administrative_area_level_1": "台北市",
+        "postal_code": "112"
+      }
+    },
+    {
+      "id": "ChIJ5T2xS1GuQjQRiDLONm47OEE",
+      "name": "北投",
+      "place_id": "ChIJ5T2xS1GuQjQRiDLONm47OEE",
+      "latitude": 25.1317795,
+      "longitude": 121.4986418,
+      "address": "11246台灣台北市北投區光明路1號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "1",
+        "route": "光明路",
+        "administrative_area_level_2": "北投區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "11246"
+      }
+    },
+    {
+      "id": "ChIJW_B9cviuQjQR9JI_g0Job3w",
+      "name": "奇岩",
+      "place_id": "ChIJW_B9cviuQjQR9JI_g0Job3w",
+      "latitude": 25.1255353,
+      "longitude": 121.5011094,
+      "address": "112台灣台北市北投區三合街二段489號",
+      "rating": 4.3,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "489",
+        "route": "三合街二段",
+        "administrative_area_level_2": "北投區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "112"
+      }
+    },
+    {
+      "id": "ChIJ-XF1ga6vQjQRvGo2cRqulvE",
+      "name": "復興崗",
+      "place_id": "ChIJ-XF1ga6vQjQRvGo2cRqulvE",
+      "latitude": 25.1376416,
+      "longitude": 121.4854037,
+      "address": "112台灣台北市北投區中央北路三段53巷",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "route": "中央北路三段53巷",
+        "administrative_area_level_2": "北投區",
+        "political": "台灣",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "112"
+      }
+    },
+    {
+      "id": "ChIJhX4bRUWuQjQRVKzt2SEZC0g",
+      "name": "新北投",
+      "place_id": "ChIJhX4bRUWuQjQRVKzt2SEZC0g",
+      "latitude": 25.1369406,
+      "longitude": 121.5022901,
+      "address": "112台灣台北市北投區大業路700號",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "700",
+        "route": "大業路",
+        "administrative_area_level_3": "中心里",
+        "political": "台灣",
+        "administrative_area_level_2": "北投區",
+        "administrative_area_level_1": "台北市",
+        "country": "台灣",
+        "postal_code": "112"
+      }
+    },
+    {
+      "id": "ChIJmyhbW5KvQjQRHJ2w0oRKjkc",
+      "name": "紅樹林",
+      "place_id": "ChIJmyhbW5KvQjQRHJ2w0oRKjkc",
+      "latitude": 25.1550093,
+      "longitude": 121.45891849999998,
+      "address": "251台灣新北市淡水區中正東路二段68號",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "street_number": "68號",
+        "route": "中正東路二段",
+        "administrative_area_level_3": "八勢里",
+        "political": "台灣",
+        "administrative_area_level_2": "淡水區",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "251"
+      }
+    },
+    {
+      "id": "ChIJKcr4c52vQjQR1lAzQI7obCY",
+      "name": "竹圍",
+      "place_id": "ChIJKcr4c52vQjQR1lAzQI7obCY",
+      "latitude": 25.136914299999997,
+      "longitude": 121.45952559999999,
+      "address": "251台灣新北市淡水區",
+      "rating": 4.2,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "administrative_area_level_2": "淡水區",
+        "political": "台灣",
+        "neighborhood": "竹圍",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "251"
+      }
+    },
+    {
+      "id": "ChIJ3YC9glilQjQRxvedF6PFWVc",
+      "name": "淡水",
+      "place_id": "ChIJ3YC9glilQjQRxvedF6PFWVc",
+      "latitude": 25.167714,
+      "longitude": 121.44567560000002,
+      "address": "251台灣新北市淡水區中正路",
+      "rating": 4.4,
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "addressComponents": {
+        "route": "中正路",
+        "administrative_area_level_2": "淡水區",
+        "political": "台灣",
+        "administrative_area_level_1": "新北市",
+        "country": "台灣",
+        "postal_code": "251"
+      }
+    }
+  ]
+}
